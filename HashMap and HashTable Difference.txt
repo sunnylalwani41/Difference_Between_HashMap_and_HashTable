@@ -1,0 +1,16 @@
+These HashMap and HashTable is almost same.But there some differences are:-
+
+1. HashMap:- It is introduced in 1.2 version of java.
+HashTable:- It is there since java was introduced.
+
+2. HashMap:- It is not threadSafe i.e. non-synchronized.
+HashTable:- It is threadSafe i.e. synchronized.
+
+3. HashMap:- It is fast.
+HashTable:- It is slow.
+
+4.HashMap:- HashMap works with single thread.
+HashTable:- HashTable works with multiple thread.
+
+5. HashMap:- It allows null key.
+HashTable:- It does not allow null key.
